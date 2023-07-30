@@ -2,7 +2,7 @@
 
 ## Live Preview Link
 
-[https://smart-ai-app.vercel.app/]
+[https://smart-ai-app.vercel.app]
 
 ## Install packages
 
