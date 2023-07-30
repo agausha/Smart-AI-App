@@ -1,5 +1,9 @@
 # A Smart-AI Application
 
+## Live Preview Link
+
+[https://smart-ai-app.vercel.app/]
+
 ## Install packages
 
 ```bash
