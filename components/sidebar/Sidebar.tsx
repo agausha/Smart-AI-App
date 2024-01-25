@@ -104,7 +104,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           ))}
         </div>
       </div>
-      <FreeCounter isPro={isPro} apiLimitCount={apiLimitCount} />
+      <FreeCounter apiLimitCount={apiLimitCount} isPro={isPro} />
     </div>
   );
 };
